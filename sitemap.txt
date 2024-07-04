@@ -4,4 +4,6 @@ http://example.com/tags/index.html
 http://example.com/categories/index.html
 http://example.com/2024/07/05/frist-document/
 http://example.com/
+http://example.com/tags/sss/
+http://example.com/tags/rrw/
 http://example.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/

@@ -55,6 +55,20 @@
   </url>
 
   
+  <url>
+    <loc>http://example.com/tags/sss/</loc>
+    <lastmod>2024-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/rrw/</loc>
+    <lastmod>2024-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
